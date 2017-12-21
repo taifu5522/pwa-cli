@@ -1,0 +1,1 @@
+window.WEBPACK_ASSETS={"main":{"js":"main.js?hash=28b644a6518ed959cd07","css":"main.css"},"vendor":{"js":"vendor.js"}}

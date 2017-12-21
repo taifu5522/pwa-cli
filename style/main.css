@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#app h3{
+    color: #000;
+}
